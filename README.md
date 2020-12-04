@@ -6,7 +6,7 @@ brain_cells_data.json &nbsp; ---> &nbsp; file containing the identifiers of the 
 brain_rep.py &nbsp; ---> &nbsp; main script <br>
 br_utils.py &nbsp; ---> &nbsp; script containing functions <br>
 brain_qc.h5ad &nbsp; ---> &nbsp; raw gene expression file (NOT uploaded to GitHub) <br>
-trimmed_means.csv &nbsp; ---> &nbsp; log-transformed expression file (NOT uploaded to GitHub) <br>
+trimmed_means.csv &nbsp; ---> &nbsp; log-transformed gene expression file (NOT uploaded to GitHub) <br>
 
 ## Usage
 brain_rep.py [-h] -s SOURCECELL -d DESIREDCELL [-o ORGANISM]
