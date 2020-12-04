@@ -1,5 +1,5 @@
 # BrainRep
-This scripts codes for predictive algorithm that uses gene expression data of brain cells and regulatory network information to predict transcription factors for inducing cell reprogramming between specific brain cells and neuronal subtypes.
+This scripts codes for a predictive algorithm that uses gene expression data of brain cells and regulatory network information to predict transcription factors for inducing cell reprogramming between specific brain cells and neuronal subtypes.
 
 ## Usage
 brain_rep.py [-h] -s SOURCECELL -d DESIREDCELL [-o ORGANISM]
