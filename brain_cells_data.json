@@ -1,0 +1,5064 @@
+{
+    "Neuron 001": {
+        "alternative_name": "Inh L1 LAMP5 NDNF",
+        "region": {
+            "MTG": [
+                "L1",
+                "L3",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L1",
+                "L2",
+                "L5",
+                "L3"
+            ],
+            "CgG": [
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "M1lm": [
+                "L1",
+                "L5",
+                "L2",
+                "L6"
+            ],
+            "S1ul": [
+                "L1",
+                "L2",
+                "L5",
+                "L6a",
+                "L3",
+                "L4"
+            ],
+            "S1lm": [
+                "L3",
+                "L1",
+                "L2"
+            ],
+            "M1ul": [
+                "L1",
+                "L3",
+                "L2",
+                "L5"
+            ],
+            "A1C": [
+                "L1",
+                "L2",
+                "L4",
+                "L5",
+                "WM"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 002": {
+        "alternative_name": "Inh L1 LAMP5 GGT8P",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2"
+            ],
+            "V1C": [
+                "L1",
+                "L2"
+            ],
+            "CgG": [
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "M1lm": [
+                "L1"
+            ],
+            "S1ul": [
+                "L1"
+            ],
+            "M1ul": [
+                "L2",
+                "L1"
+            ],
+            "S1lm": [
+                "L1"
+            ],
+            "A1C": [
+                "L1",
+                "L2"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 003": {
+        "alternative_name": "Inh L1-4 LAMP5 DUSP4",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L2",
+                "L4",
+                "L3",
+                "L6"
+            ],
+            "V1C": [
+                "L1",
+                "L5",
+                "L4c",
+                "L4ab",
+                "L3",
+                "L6a",
+                "L2",
+                "L6b"
+            ],
+            "CgG": [
+                "L1",
+                "L2",
+                "L5b",
+                "L5a",
+                "L6"
+            ],
+            "M1lm": [
+                "L1",
+                "L3",
+                "L6",
+                "L5",
+                "L2"
+            ],
+            "S1ul": [
+                "L1",
+                "L2",
+                "L4",
+                "L3",
+                "L5",
+                "L6a"
+            ],
+            "S1lm": [
+                "L2",
+                "L3",
+                "L1",
+                "L4",
+                "L6b"
+            ],
+            "M1ul": [
+                "L2",
+                "L3",
+                "L5",
+                "L1",
+                "L6"
+            ],
+            "A1C": [
+                "L6b",
+                "L1",
+                "L2",
+                "L6a",
+                "L3",
+                "L4",
+                "L5",
+                "WM"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 004": {
+        "alternative_name": "Inh L6 LAMP5 C1QL2",
+        "region": {
+            "MTG": [
+                "L5",
+                "L3",
+                "L4",
+                "L6"
+            ],
+            "CgG": [
+                "L2",
+                "L6",
+                "L5b",
+                "L5a"
+            ],
+            "V1C": [
+                "L6b"
+            ],
+            "M1lm": [
+                "L6"
+            ],
+            "S1ul": [
+                "L5",
+                "L4"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "A1C": [
+                "L2",
+                "L6b",
+                "L3",
+                "L6a",
+                "WM",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 005": {
+        "alternative_name": "Inh L1-6 LAMP5 CA13",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L3",
+                "L2",
+                "L1",
+                "L4"
+            ],
+            "V1C": [
+                "L2",
+                "L6a",
+                "L3",
+                "L1",
+                "L4ab",
+                "L5",
+                "L6b",
+                "L4c"
+            ],
+            "CgG": [
+                "L6",
+                "L5a",
+                "L1",
+                "L5b",
+                "L2"
+            ],
+            "M1lm": [
+                "L1",
+                "L6",
+                "L5",
+                "L3",
+                "L2"
+            ],
+            "S1ul": [
+                "L6b",
+                "L2",
+                "L5",
+                "L1"
+            ],
+            "M1ul": [
+                "L1",
+                "L2",
+                "L3",
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L2",
+                "L6a",
+                "L6b",
+                "L3",
+                "L4"
+            ],
+            "A1C": [
+                "WM",
+                "L6b",
+                "L2",
+                "L5",
+                "L3",
+                "L4",
+                "L1",
+                "L6a"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 006": {
+        "alternative_name": "Inh L5-6 LAMP5 SFTA3",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L1",
+                "L4",
+                "L3",
+                "L2"
+            ],
+            "V1C": [
+                "L5",
+                "L6a",
+                "L6b",
+                "L2",
+                "L4c",
+                "L4ab",
+                "L3",
+                "L1"
+            ],
+            "CgG": [
+                "L5b",
+                "L6",
+                "L2",
+                "L5a"
+            ],
+            "M1lm": [
+                "L3",
+                "L6",
+                "L5",
+                "L2"
+            ],
+            "S1ul": [
+                "L6b",
+                "L5",
+                "L6a",
+                "L2"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L1",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L6",
+                "L3",
+                "L5"
+            ],
+            "A1C": [
+                "L5",
+                "L6b",
+                "WM",
+                "L6a",
+                "L4",
+                "L3"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 007": {
+        "alternative_name": "Inh L1-2 PAX6 SCGN",
+        "region": {
+            "MTG": [
+                "L5",
+                "L2",
+                "L1",
+                "L3"
+            ],
+            "CgG": [
+                "L6",
+                "L1",
+                "L2",
+                "L5b"
+            ],
+            "V1C": [
+                "L2"
+            ],
+            "S1ul": [
+                "L1"
+            ],
+            "A1C": [
+                "L2",
+                "L1",
+                "L3"
+            ],
+            "M1lm": [
+                "L3"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 008": {
+        "alternative_name": "Inh L6 LAMP5 ANKRD20A11P",
+        "region": {
+            "MTG": [
+                "L6"
+            ],
+            "CgG": [
+                "L6"
+            ],
+            "M1lm": [
+                "L6"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "A1C": [
+                "WM"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 009": {
+        "alternative_name": "Inh L1 PAX6 CA4",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "V1C": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "CgG": [
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "S1ul": [
+                "L1",
+                "L2"
+            ],
+            "M1lm": [
+                "L1",
+                "L2"
+            ],
+            "M1ul": [
+                "L1",
+                "L5",
+                "L2"
+            ],
+            "S1lm": [
+                "L1"
+            ],
+            "A1C": [
+                "L1",
+                "L6b"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 010": {
+        "alternative_name": "Inh L1 PAX6 GRIP2",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L2"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "V1C": [
+                "L1"
+            ],
+            "S1ul": [
+                "L1"
+            ],
+            "S1lm": [
+                "L1"
+            ],
+            "M1lm": [
+                "L1"
+            ],
+            "M1ul": [
+                "L1"
+            ],
+            "A1C": [
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 011": {
+        "alternative_name": "Inh L1-3 PAX6 NABP1",
+        "region": {
+            "MTG": [
+                "L2",
+                "L3",
+                "L1",
+                "L4",
+                "L6"
+            ],
+            "CgG": [
+                "L6",
+                "L2",
+                "L5b",
+                "L1"
+            ],
+            "V1C": [
+                "L2"
+            ],
+            "S1ul": [
+                "L2",
+                "L3",
+                "L6b"
+            ],
+            "M1lm": [
+                "L2",
+                "L3"
+            ],
+            "S1lm": [
+                "L2"
+            ],
+            "M1ul": [
+                "L6",
+                "L5",
+                "L2"
+            ],
+            "A1C": [
+                "L2",
+                "L3",
+                "L5",
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 012": {
+        "alternative_name": "Inh L1-6 VIP RCN1",
+        "region": {
+            "MTG": [
+                "L5",
+                "L1",
+                "L2",
+                "L3",
+                "L6"
+            ],
+            "CgG": [
+                "L6",
+                "L2",
+                "L5b",
+                "L1"
+            ],
+            "V1C": [
+                "L6b"
+            ],
+            "M1lm": [
+                "L1",
+                "L6"
+            ],
+            "S1ul": [
+                "L6b"
+            ],
+            "M1ul": [
+                "L2",
+                "L5",
+                "L6"
+            ],
+            "A1C": [
+                "L5",
+                "WM"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 013": {
+        "alternative_name": "Inh L1 VIP PRSS8",
+        "region": {
+            "MTG": [
+                "L1",
+                "L3",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L3",
+                "L1",
+                "L2"
+            ],
+            "CgG": [
+                "L1",
+                "L2",
+                "L5a"
+            ],
+            "M1lm": [
+                "L1"
+            ],
+            "S1ul": [
+                "L1",
+                "L2",
+                "L4"
+            ],
+            "S1lm": [
+                "L1"
+            ],
+            "M1ul": [
+                "L1"
+            ],
+            "A1C": [
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 014": {
+        "alternative_name": "Inh L1 VIP TNFAIP8L3",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "V1C": [
+                "L1"
+            ],
+            "M1lm": [
+                "L1",
+                "L2"
+            ],
+            "S1lm": [
+                "L2",
+                "L1"
+            ],
+            "M1ul": [
+                "L3",
+                "L1"
+            ],
+            "A1C": [
+                "L2",
+                "L1",
+                "L3"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 015": {
+        "alternative_name": "Inh L1 ADARB2 ADAM33",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "V1C": [
+                "L1",
+                "L3",
+                "L2",
+                "L4ab"
+            ],
+            "CgG": [
+                "L1",
+                "L5a",
+                "L2",
+                "L6"
+            ],
+            "M1lm": [
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "S1ul": [
+                "L1",
+                "L2",
+                "L6a",
+                "L3",
+                "L5",
+                "L6b"
+            ],
+            "M1ul": [
+                "L1",
+                "L2",
+                "L3",
+                "L5"
+            ],
+            "S1lm": [
+                "L1",
+                "L2"
+            ],
+            "A1C": [
+                "L1",
+                "L2",
+                "WM",
+                "L6a"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 016": {
+        "alternative_name": "Inh L1 SST CXCL14",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "V1C": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "M1lm": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L1",
+                "L2",
+                "L4",
+                "L3",
+                "L6b"
+            ],
+            "S1lm": [
+                "L1",
+                "L3",
+                "L6b"
+            ],
+            "M1ul": [
+                "L1",
+                "L2",
+                "L3",
+                "L5"
+            ],
+            "A1C": [
+                "L1",
+                "L2",
+                "L4",
+                "L3",
+                "L5",
+                "L6a"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 017": {
+        "alternative_name": "Inh L1 ADARB2 DISP2",
+        "region": {
+            "MTG": [
+                "L1",
+                "L3",
+                "L2"
+            ],
+            "CgG": [
+                "L1"
+            ],
+            "S1ul": [
+                "L2",
+                "L1"
+            ],
+            "S1lm": [
+                "L1"
+            ],
+            "M1ul": [
+                "L3"
+            ],
+            "A1C": [
+                "L3",
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 018": {
+        "alternative_name": "Inh L1 VIP SOX11",
+        "region": {
+            "MTG": [
+                "L1"
+            ],
+            "CgG": [
+                "L2",
+                "L1"
+            ],
+            "V1C": [
+                "L1"
+            ],
+            "M1lm": [
+                "L1",
+                "L2"
+            ],
+            "S1ul": [
+                "L1",
+                "L2"
+            ],
+            "S1lm": [
+                "L2",
+                "L1"
+            ],
+            "M1ul": [
+                "L1"
+            ],
+            "A1C": [
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 019": {
+        "alternative_name": "Inh L1-6 VIP PENK",
+        "region": {
+            "MTG": [
+                "L4",
+                "L2",
+                "L3",
+                "L1",
+                "L6"
+            ],
+            "V1C": [
+                "L5",
+                "L2",
+                "L6a"
+            ],
+            "CgG": [
+                "L2",
+                "L1",
+                "L6"
+            ],
+            "M1lm": [
+                "L3",
+                "L5",
+                "L6"
+            ],
+            "S1lm": [
+                "L1",
+                "L2",
+                "L3",
+                "L5"
+            ],
+            "S1ul": [
+                "L6b"
+            ],
+            "M1ul": [
+                "L3",
+                "L6",
+                "L5",
+                "L2"
+            ],
+            "A1C": [
+                "WM",
+                "L4",
+                "L3"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 020": {
+        "alternative_name": "Inh L1-5 VIP KCNJ2",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L3",
+                "L2",
+                "L4",
+                "L6"
+            ],
+            "V1C": [
+                "L4c",
+                "L1",
+                "L5",
+                "L6a",
+                "L3"
+            ],
+            "CgG": [
+                "L6",
+                "L2",
+                "L1",
+                "L5b",
+                "L5a"
+            ],
+            "M1lm": [
+                "L3",
+                "L6",
+                "L5",
+                "L2"
+            ],
+            "S1ul": [
+                "L5",
+                "L2",
+                "L3",
+                "L6b",
+                "L4"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L4"
+            ],
+            "M1ul": [
+                "L1",
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "A1C": [
+                "L4",
+                "L5",
+                "L2",
+                "L6a",
+                "L3",
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 021": {
+        "alternative_name": "Inh L1 VIP PCDH20",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "V1C": [
+                "L1"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "M1lm": [
+                "L1",
+                "L6"
+            ],
+            "S1ul": [
+                "L1",
+                "L2"
+            ],
+            "S1lm": [
+                "L1"
+            ],
+            "M1ul": [
+                "L1"
+            ],
+            "A1C": [
+                "L1",
+                "L2",
+                "WM",
+                "L4"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 022": {
+        "alternative_name": "Inh L1-2 VIP PPAPDC1A",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "CgG": [
+                "L2",
+                "L1"
+            ],
+            "V1C": [
+                "L1"
+            ],
+            "M1lm": [
+                "L1",
+                "L2"
+            ],
+            "S1ul": [
+                "L1",
+                "L3"
+            ],
+            "S1lm": [
+                "L2"
+            ],
+            "M1ul": [
+                "L1"
+            ],
+            "A1C": [
+                "L2",
+                "L3",
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 023": {
+        "alternative_name": "Inh L2-6 VIP VIP",
+        "region": {
+            "MTG": [
+                "L5",
+                "L3",
+                "L4",
+                "L2",
+                "L1",
+                "L6"
+            ],
+            "V1C": [
+                "L3",
+                "L1",
+                "L4ab",
+                "L2",
+                "L6a",
+                "L4c",
+                "L6b",
+                "L5"
+            ],
+            "CgG": [
+                "L6",
+                "L2",
+                "L1",
+                "L5b",
+                "L5a"
+            ],
+            "M1lm": [
+                "L3",
+                "L6",
+                "L5",
+                "L2"
+            ],
+            "S1ul": [
+                "L3",
+                "L5",
+                "L2",
+                "L4",
+                "L6b"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L6b",
+                "L4",
+                "L1"
+            ],
+            "M1ul": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "A1C": [
+                "L4",
+                "WM",
+                "L3",
+                "L6b",
+                "L1",
+                "L5",
+                "L6a"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 024": {
+        "alternative_name": "Inh L3-6 VIP KCTD13",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L6",
+                "L3",
+                "L2"
+            ],
+            "CgG": [
+                "L5b",
+                "L6",
+                "L2",
+                "L1",
+                "L5a"
+            ],
+            "V1C": [
+                "L5",
+                "L6a",
+                "L6b"
+            ],
+            "M1lm": [
+                "L2",
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1ul": [
+                "L6b"
+            ],
+            "M1ul": [
+                "L6",
+                "L3",
+                "L5"
+            ],
+            "S1lm": [
+                "L2",
+                "L5",
+                "L3",
+                "L6b"
+            ],
+            "A1C": [
+                "L6a",
+                "L4",
+                "WM",
+                "L3",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 025": {
+        "alternative_name": "Inh L1-6 VIP RGS16",
+        "region": {
+            "MTG": [
+                "L3",
+                "L5",
+                "L6",
+                "L2",
+                "L1",
+                "L4"
+            ],
+            "V1C": [
+                "L5",
+                "L6a",
+                "L1",
+                "L3",
+                "L4c",
+                "L2",
+                "L6b"
+            ],
+            "CgG": [
+                "L1",
+                "L6",
+                "L2",
+                "L5b",
+                "L5a"
+            ],
+            "M1lm": [
+                "L1",
+                "L3",
+                "L2",
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L1",
+                "L6b",
+                "L4",
+                "L2",
+                "L5"
+            ],
+            "S1lm": [
+                "L2",
+                "L1",
+                "L5",
+                "L3",
+                "L4"
+            ],
+            "M1ul": [
+                "L5",
+                "L3",
+                "L2",
+                "L6"
+            ],
+            "A1C": [
+                "L1",
+                "L2",
+                "L4",
+                "L3",
+                "L6a",
+                "L6b",
+                "L5",
+                "WM"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 026": {
+        "alternative_name": "Inh L1-3 VIP SSTR1",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L3",
+                "L2",
+                "L4"
+            ],
+            "V1C": [
+                "L1",
+                "L3",
+                "L2"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "M1lm": [
+                "L2",
+                "L1",
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L2"
+            ],
+            "S1lm": [
+                "L1",
+                "L2",
+                "L3",
+                "L4"
+            ],
+            "M1ul": [
+                "L2"
+            ],
+            "A1C": [
+                "L3",
+                "L2"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 027": {
+        "alternative_name": "Inh L1-2 VIP RPL41P3",
+        "region": {
+            "MTG": [
+                "L1",
+                "L3",
+                "L2",
+                "L4"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "V1C": [
+                "L2",
+                "L1"
+            ],
+            "M1lm": [
+                "L2",
+                "L3",
+                "L1"
+            ],
+            "S1ul": [
+                "L2",
+                "L1",
+                "L4"
+            ],
+            "M1ul": [
+                "L3",
+                "L1",
+                "L2"
+            ],
+            "S1lm": [
+                "L2"
+            ],
+            "A1C": [
+                "L5",
+                "L2",
+                "L1",
+                "L3"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 028": {
+        "alternative_name": "Inh L1-3 VIP ACHE",
+        "region": {
+            "MTG": [
+                "L1",
+                "L3",
+                "L2"
+            ],
+            "V1C": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "M1lm": [
+                "L1",
+                "L2"
+            ],
+            "S1ul": [
+                "L2",
+                "L3"
+            ],
+            "S1lm": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "M1ul": [
+                "L1",
+                "L2"
+            ],
+            "A1C": [
+                "L3",
+                "L2"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 029": {
+        "alternative_name": "Inh L2-4 VIP LGI2",
+        "region": {
+            "MTG": [
+                "L3",
+                "L2",
+                "L4",
+                "L1"
+            ],
+            "V1C": [
+                "L3",
+                "L4c",
+                "L5",
+                "L2"
+            ],
+            "CgG": [
+                "L2",
+                "L5a",
+                "L1"
+            ],
+            "M1lm": [
+                "L3"
+            ],
+            "S1ul": [
+                "L3"
+            ],
+            "S1lm": [
+                "L2",
+                "L3",
+                "L4"
+            ],
+            "M1ul": [
+                "L2",
+                "L3",
+                "L5"
+            ],
+            "A1C": [
+                "L3",
+                "L4",
+                "L2"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 030": {
+        "alternative_name": "Inh L1-4 VIP CHRNA2",
+        "region": {
+            "MTG": [
+                "L1",
+                "L4",
+                "L2",
+                "L3"
+            ],
+            "V1C": [
+                "L3",
+                "L2"
+            ],
+            "CgG": [
+                "L2",
+                "L1",
+                "L5a",
+                "L6",
+                "L5b"
+            ],
+            "M1lm": [
+                "L1",
+                "L6",
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L4",
+                "L2",
+                "L6b"
+            ],
+            "S1lm": [
+                "L2",
+                "L1",
+                "L3",
+                "L6b"
+            ],
+            "M1ul": [
+                "L2",
+                "L3"
+            ],
+            "A1C": [
+                "L2",
+                "L3",
+                "L4",
+                "L6a",
+                "L5",
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 031": {
+        "alternative_name": "Inh L1-3 VIP CCDC184",
+        "region": {
+            "MTG": [
+                "L3",
+                "L2"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "V1C": [
+                "L2",
+                "L3",
+                "L4ab"
+            ],
+            "M1lm": [
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L2"
+            ],
+            "M1ul": [
+                "L1",
+                "L2"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 032": {
+        "alternative_name": "Inh L2-5 VIP TOX2",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L4",
+                "L3",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L4ab",
+                "L2",
+                "L4c",
+                "L5",
+                "L6b"
+            ],
+            "CgG": [
+                "L5b",
+                "L2",
+                "L5a",
+                "L6",
+                "L1"
+            ],
+            "M1lm": [
+                "L5",
+                "L3"
+            ],
+            "S1ul": [
+                "L5",
+                "L3",
+                "L2",
+                "L4"
+            ],
+            "M1ul": [
+                "L3",
+                "L5",
+                "L6"
+            ],
+            "S1lm": [
+                "L3",
+                "L5",
+                "L1",
+                "L2",
+                "L4"
+            ],
+            "A1C": [
+                "L5",
+                "L4",
+                "L3",
+                "L6a",
+                "L1",
+                "L2",
+                "L6b"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 033": {
+        "alternative_name": "Inh L2-4 VIP DSEL",
+        "region": {
+            "MTG": [
+                "L4",
+                "L3",
+                "L5",
+                "L2"
+            ],
+            "V1C": [
+                "L1",
+                "L4c",
+                "L3"
+            ],
+            "CgG": [
+                "L5a",
+                "L5b",
+                "L2"
+            ],
+            "M1lm": [
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L4",
+                "L2"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L4"
+            ],
+            "M1ul": [
+                "L3",
+                "L5"
+            ],
+            "A1C": [
+                "L3",
+                "L2",
+                "L6b",
+                "L4",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 034": {
+        "alternative_name": "Inh L1-3 VIP ZNF322P1",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L3",
+                "L5",
+                "L4"
+            ],
+            "V1C": [
+                "L2",
+                "L1",
+                "L3",
+                "L4ab",
+                "L5"
+            ],
+            "CgG": [
+                "L1",
+                "L2"
+            ],
+            "M1lm": [
+                "L2",
+                "L6",
+                "L1",
+                "L3"
+            ],
+            "S1ul": [
+                "L2",
+                "L3",
+                "L1",
+                "L6a",
+                "L4",
+                "L6b"
+            ],
+            "S1lm": [
+                "L1",
+                "L2",
+                "L3",
+                "L6b"
+            ],
+            "M1ul": [
+                "L2",
+                "L3",
+                "L5",
+                "L1"
+            ],
+            "A1C": [
+                "L2",
+                "L3",
+                "L4",
+                "L1"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 035": {
+        "alternative_name": "Inh L3 VIP CBLN1",
+        "region": {
+            "MTG": [
+                "L1",
+                "L4",
+                "L3",
+                "L2"
+            ],
+            "CgG": [
+                "L2",
+                "L5b",
+                "L6"
+            ],
+            "V1C": [
+                "L3"
+            ],
+            "M1lm": [
+                "L2",
+                "L6",
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L4"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L1",
+                "L3",
+                "L2"
+            ],
+            "A1C": [
+                "L3",
+                "L4",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 036": {
+        "alternative_name": "Inh L1-3 VIP GGH",
+        "region": {
+            "MTG": [
+                "L1",
+                "L3",
+                "L2",
+                "L4",
+                "L5",
+                "L6"
+            ],
+            "CgG": [
+                "L1",
+                "L2",
+                "L5a"
+            ],
+            "V1C": [
+                "L6b",
+                "L2",
+                "L4ab",
+                "L3"
+            ],
+            "M1lm": [
+                "L2",
+                "L3",
+                "L1"
+            ],
+            "S1ul": [
+                "L2",
+                "L3",
+                "L4"
+            ],
+            "S1lm": [
+                "L1",
+                "L4",
+                "L3",
+                "L2"
+            ],
+            "M1ul": [
+                "L3",
+                "L2"
+            ],
+            "A1C": [
+                "L3",
+                "L2",
+                "L4"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 037": {
+        "alternative_name": "Inh L6 SST NPY",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6"
+            ],
+            "CgG": [
+                "L6"
+            ],
+            "V1C": [
+                "L6b",
+                "L6a"
+            ],
+            "S1ul": [
+                "L6b",
+                "L3"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "M1lm": [
+                "L6"
+            ],
+            "S1lm": [
+                "L4"
+            ],
+            "A1C": [
+                "L2",
+                "WM",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 038": {
+        "alternative_name": "Inh L5-6 SST ISOC1",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4",
+                "L2"
+            ],
+            "V1C": [
+                "L6a",
+                "L6b",
+                "L4c",
+                "L5"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L2",
+                "L5a"
+            ],
+            "M1lm": [
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6b",
+                "L4",
+                "L6a"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L5",
+                "L6a",
+                "L6b"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 039": {
+        "alternative_name": "Inh L5-6 SST KLHL14",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L5",
+                "L6a"
+            ],
+            "CgG": [
+                "L5a",
+                "L6",
+                "L5b"
+            ],
+            "M1lm": [
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6b",
+                "L5",
+                "L6a"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b",
+                "WM",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 040": {
+        "alternative_name": "Inh L3-5 SST MAFB",
+        "region": {
+            "MTG": [
+                "L5",
+                "L3",
+                "L4",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L4c",
+                "L6a",
+                "L4ab",
+                "L3",
+                "L2",
+                "L6b",
+                "L1",
+                "L5"
+            ],
+            "CgG": [
+                "L1",
+                "L5a",
+                "L5b",
+                "L6",
+                "L2"
+            ],
+            "M1lm": [
+                "L3",
+                "L6",
+                "L2",
+                "L5",
+                "L1"
+            ],
+            "S1ul": [
+                "L2",
+                "L4",
+                "L3",
+                "L5",
+                "L6b",
+                "L6a"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L1",
+                "L5",
+                "L6",
+                "L2",
+                "L3"
+            ],
+            "A1C": [
+                "L6a",
+                "L5",
+                "L2",
+                "L3",
+                "L4"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 041": {
+        "alternative_name": "Inh L4-6 SST MTHFD2P6",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L3",
+                "L6",
+                "L2"
+            ],
+            "V1C": [
+                "L4c",
+                "L5",
+                "L4ab",
+                "L6a",
+                "L6b"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L2",
+                "L5a",
+                "L1"
+            ],
+            "M1lm": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1ul": [
+                "L5",
+                "L4",
+                "L6a",
+                "L6b"
+            ],
+            "S1lm": [
+                "L3",
+                "L6b",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L6",
+                "L5",
+                "L3",
+                "L2"
+            ],
+            "A1C": [
+                "L5",
+                "L4",
+                "L6a",
+                "WM",
+                "L3"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 042": {
+        "alternative_name": "Inh L4-5 PVALB TRIM67",
+        "region": {
+            "V1C": [
+                "L6b",
+                "L4c",
+                "L4ab",
+                "L5",
+                "L3",
+                "L6a"
+            ],
+            "S1ul": [
+                "L3",
+                "L4"
+            ],
+            "S1lm": [
+                "L4"
+            ],
+            "A1C": [
+                "L5",
+                "L4"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 043": {
+        "alternative_name": "Inh L5-6 SST TH",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L5a",
+                "L2"
+            ],
+            "V1C": [
+                "L6a",
+                "L5"
+            ],
+            "M1lm": [
+                "L6",
+                "L5"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "S1lm": [
+                "L6b"
+            ],
+            "A1C": [
+                "L6b",
+                "L6a",
+                "L4",
+                "L5"
+            ],
+            "S1ul": [
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 044": {
+        "alternative_name": "Inh L6 LHX6 GLP1R",
+        "region": {
+            "MTG": [
+                "L6",
+                "L5"
+            ],
+            "V1C": [
+                "L6a",
+                "L4c"
+            ],
+            "CgG": [
+                "L6",
+                "L5b"
+            ],
+            "M1lm": [
+                "L5",
+                "L6"
+            ],
+            "S1lm": [
+                "L6b"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "WM",
+                "L6b"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 045": {
+        "alternative_name": "Inh L5-6 PVALB FAM150B",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L6"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L5a"
+            ],
+            "V1C": [
+                "L6a"
+            ],
+            "M1lm": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1ul": [
+                "L5",
+                "L6a",
+                "L6b",
+                "L4"
+            ],
+            "M1ul": [
+                "L5",
+                "L6"
+            ],
+            "S1lm": [
+                "L6a",
+                "L5",
+                "L4"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b",
+                "WM",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 046": {
+        "alternative_name": "Inh L2-4 SST AHR",
+        "region": {
+            "MTG": [
+                "L4",
+                "L3",
+                "L2",
+                "L1"
+            ],
+            "V1C": [
+                "L1",
+                "L4ab",
+                "L3",
+                "L2",
+                "L5"
+            ],
+            "CgG": [
+                "L6",
+                "L5a",
+                "L2"
+            ],
+            "M1lm": [
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L5",
+                "L4",
+                "L6b",
+                "L2"
+            ],
+            "S1lm": [
+                "L2",
+                "L3",
+                "L4"
+            ],
+            "M1ul": [
+                "L3",
+                "L2"
+            ],
+            "A1C": [
+                "L4",
+                "L3",
+                "L5",
+                "L6b"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 047": {
+        "alternative_name": "Inh L5-6 PVALB STON2",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4",
+                "L1"
+            ],
+            "V1C": [
+                "L6a",
+                "L6b",
+                "L4c",
+                "L5"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L5a",
+                "L2"
+            ],
+            "M1lm": [
+                "L6",
+                "L3",
+                "L5",
+                "L2"
+            ],
+            "S1ul": [
+                "L6b",
+                "L5",
+                "L6a",
+                "L4",
+                "L3"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6a",
+                "L3",
+                "L6b",
+                "L4",
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b",
+                "L4",
+                "L2",
+                "WM",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 048": {
+        "alternative_name": "Inh L5 PVALB CNTNAP3P2",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L6",
+                "L3"
+            ],
+            "V1C": [
+                "L5",
+                "L4c",
+                "L6a",
+                "L6b"
+            ],
+            "CgG": [
+                "L5b",
+                "L6",
+                "L5a",
+                "L2",
+                "L1"
+            ],
+            "M1lm": [
+                "L3",
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6a",
+                "L5",
+                "L6b",
+                "L4"
+            ],
+            "M1ul": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1lm": [
+                "L5",
+                "L4",
+                "L6a",
+                "L3"
+            ],
+            "A1C": [
+                "L5",
+                "L6a",
+                "L6b",
+                "L4",
+                "L3",
+                "WM"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 049": {
+        "alternative_name": "Inh L2-4 PVALB C8orf4",
+        "region": {
+            "MTG": [
+                "L2",
+                "L3",
+                "L4",
+                "L5",
+                "L6"
+            ],
+            "V1C": [
+                "L3",
+                "L4ab",
+                "L4c",
+                "L2",
+                "L6a",
+                "L5",
+                "L1"
+            ],
+            "CgG": [
+                "L2",
+                "L5a",
+                "L5b",
+                "L6",
+                "L1"
+            ],
+            "M1lm": [
+                "L3",
+                "L5",
+                "L2",
+                "L1",
+                "L6"
+            ],
+            "S1ul": [
+                "L4",
+                "L3",
+                "L5",
+                "L2",
+                "L6b",
+                "L6a"
+            ],
+            "S1lm": [
+                "L2",
+                "L3",
+                "L1",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L3",
+                "L1",
+                "L2",
+                "L5",
+                "L6"
+            ],
+            "A1C": [
+                "L3",
+                "L2",
+                "WM",
+                "L4",
+                "L5",
+                "L6a"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 050": {
+        "alternative_name": "Inh L1-2 PVALB TAC1",
+        "region": {
+            "MTG": [
+                "L2",
+                "L1",
+                "L3"
+            ],
+            "V1C": [
+                "L1",
+                "L2"
+            ],
+            "CgG": [
+                "L2",
+                "L1"
+            ],
+            "M1lm": [
+                "L2",
+                "L1"
+            ],
+            "M1ul": [
+                "L2"
+            ],
+            "S1lm": [
+                "L2"
+            ],
+            "S1ul": [
+                "L2"
+            ],
+            "A1C": [
+                "L3"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 051": {
+        "alternative_name": "Inh L1-3 PVALB WFDC2",
+        "region": {
+            "MTG": [
+                "L1",
+                "L3",
+                "L2",
+                "L4",
+                "L5"
+            ],
+            "V1C": [
+                "L2",
+                "L3",
+                "L4ab"
+            ],
+            "CgG": [
+                "L2",
+                "L1"
+            ],
+            "M1lm": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L2",
+                "L1",
+                "L3",
+                "L6a"
+            ],
+            "S1lm": [
+                "L2",
+                "L1",
+                "L3"
+            ],
+            "M1ul": [
+                "L3",
+                "L1",
+                "L2"
+            ],
+            "A1C": [
+                "L2",
+                "L3",
+                "L6a",
+                "L4",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 052": {
+        "alternative_name": "Inh L3-4 PVALB HOMER3",
+        "region": {
+            "MTG": [
+                "L3",
+                "L4",
+                "L5"
+            ],
+            "V1C": [
+                "L4c",
+                "L4ab",
+                "L6a",
+                "L3",
+                "L5",
+                "L6b"
+            ],
+            "CgG": [
+                "L2",
+                "L5a",
+                "L1"
+            ],
+            "M1lm": [
+                "L3",
+                "L2",
+                "L1",
+                "L5"
+            ],
+            "S1ul": [
+                "L4",
+                "L3",
+                "L2",
+                "L5",
+                "L6a"
+            ],
+            "S1lm": [
+                "L3",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L2",
+                "L3",
+                "L5",
+                "L6"
+            ],
+            "A1C": [
+                "L4",
+                "L3",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 053": {
+        "alternative_name": "Inh L1-6 PVALB SCUBE3",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L5",
+                "L3",
+                "L6"
+            ],
+            "CgG": [
+                "L2",
+                "L1",
+                "L6",
+                "L5b"
+            ],
+            "V1C": [
+                "L5"
+            ],
+            "M1lm": [
+                "L2",
+                "L1",
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L3",
+                "L6b",
+                "L1",
+                "L2"
+            ],
+            "M1ul": [
+                "L3",
+                "L1",
+                "L6"
+            ],
+            "S1lm": [
+                "L3",
+                "L6b"
+            ],
+            "A1C": [
+                "L6b",
+                "L6a",
+                "L3",
+                "L4",
+                "L2",
+                "L5"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 054": {
+        "alternative_name": "Inh L3-6 PVALB MFI2",
+        "region": {
+            "MTG": [
+                "L4",
+                "L3",
+                "L5"
+            ],
+            "CgG": [
+                "L6",
+                "L5a",
+                "L2"
+            ],
+            "V1C": [
+                "L4c",
+                "L4ab",
+                "L5"
+            ],
+            "M1lm": [
+                "L3",
+                "L2"
+            ],
+            "S1ul": [
+                "L3",
+                "L5",
+                "L4",
+                "L6b"
+            ],
+            "S1lm": [
+                "L3",
+                "L4"
+            ],
+            "M1ul": [
+                "L3",
+                "L2"
+            ],
+            "A1C": [
+                "WM",
+                "L4",
+                "L6b",
+                "L5",
+                "L3"
+            ]
+        },
+        "cell_type": "GABAergic"
+    },
+    "Neuron 055": {
+        "alternative_name": "Exc L2-4 RORB GRIK1",
+        "region": {
+            "MTG": [
+                "L3",
+                "L2",
+                "L4",
+                "L5"
+            ],
+            "V1C": [
+                "L2",
+                "L4ab",
+                "L3",
+                "L1",
+                "L6a",
+                "L4c"
+            ],
+            "M1lm": [
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L4",
+                "L2",
+                "L1"
+            ],
+            "S1lm": [
+                "L2",
+                "L3",
+                "L1",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L2",
+                "L3",
+                "L5",
+                "L6"
+            ],
+            "A1C": [
+                "L4",
+                "L3",
+                "L2"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 056": {
+        "alternative_name": "Exc L3-4 RORB RPS3P6",
+        "region": {
+            "V1C": [
+                "L4ab"
+            ],
+            "S1ul": [
+                "L4",
+                "L3",
+                "L6b",
+                "L1"
+            ],
+            "S1lm": [
+                "L3",
+                "L4"
+            ],
+            "A1C": [
+                "L3",
+                "L5",
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 057": {
+        "alternative_name": "Exc L4 RORB BHLHE22",
+        "region": {
+            "V1C": [
+                "L4ab",
+                "L4c",
+                "L3",
+                "L5",
+                "L6b",
+                "L2",
+                "L1",
+                "L6a"
+            ],
+            "S1ul": [
+                "L4",
+                "L2",
+                "L3"
+            ],
+            "S1lm": [
+                "L4"
+            ],
+            "A1C": [
+                "L3",
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 058": {
+        "alternative_name": "Exc L4 RORB CCDC168",
+        "region": {
+            "V1C": [
+                "L1",
+                "L4c"
+            ],
+            "S1ul": [
+                "L4",
+                "L3",
+                "L5",
+                "L2",
+                "L6b"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "S1lm": [
+                "L4",
+                "L5"
+            ],
+            "A1C": [
+                "L5",
+                "L3",
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 059": {
+        "alternative_name": "Exc L4 RORB CACNG5",
+        "region": {
+            "V1C": [
+                "L4c",
+                "L4ab",
+                "L6b",
+                "L5",
+                "L6a"
+            ],
+            "CgG": [
+                "L6"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 060": {
+        "alternative_name": "Exc L4-5 RORB ASCL1",
+        "region": {
+            "V1C": [
+                "L4c",
+                "L4ab",
+                "L5",
+                "L6a"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 061": {
+        "alternative_name": "Exc L4-5 RORB AIM2",
+        "region": {
+            "V1C": [
+                "L5",
+                "L6a",
+                "L4c",
+                "L4ab"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 062": {
+        "alternative_name": "Exc L2-3 LINC00507 RPL9P17",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L2",
+                "L3",
+                "L6",
+                "L4"
+            ],
+            "V1C": [
+                "L1",
+                "L2",
+                "L3",
+                "L4ab",
+                "L6b"
+            ],
+            "CgG": [
+                "L2",
+                "L1",
+                "L5a"
+            ],
+            "M1lm": [
+                "L1",
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L2",
+                "L3",
+                "L1",
+                "L6a",
+                "L5",
+                "L6b",
+                "L4"
+            ],
+            "S1lm": [
+                "L1",
+                "L2",
+                "L3",
+                "L4",
+                "L6b",
+                "L6a"
+            ],
+            "M1ul": [
+                "L1",
+                "L2",
+                "L3",
+                "L5",
+                "L6"
+            ],
+            "A1C": [
+                "L2",
+                "L3",
+                "L1",
+                "L4",
+                "L6a",
+                "WM",
+                "L5",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 063": {
+        "alternative_name": "Exc L3 LINC00507 PSRC1",
+        "region": {
+            "CgG": [
+                "L1",
+                "L2",
+                "L5a"
+            ],
+            "M1lm": [
+                "L3",
+                "L1",
+                "L2"
+            ],
+            "M1ul": [
+                "L2",
+                "L3"
+            ],
+            "A1C": [
+                "L3",
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 064": {
+        "alternative_name": "Exc L3-5 LINC00507 SLN",
+        "region": {
+            "CgG": [
+                "L5a",
+                "L2",
+                "L1"
+            ],
+            "A1C": [
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 065": {
+        "alternative_name": "Exc L3 RORB CARTPT",
+        "region": {
+            "MTG": [
+                "L3",
+                "L4",
+                "L2",
+                "L5"
+            ],
+            "CgG": [
+                "L2",
+                "L5a"
+            ],
+            "M1lm": [
+                "L2"
+            ],
+            "S1lm": [
+                "L2",
+                "L1",
+                "L3"
+            ],
+            "S1ul": [
+                "L3"
+            ],
+            "M1ul": [
+                "L3",
+                "L2"
+            ],
+            "A1C": [
+                "L3",
+                "L4",
+                "L2"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 066": {
+        "alternative_name": "Exc L3-4 RORB FOLH1B",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L3",
+                "L6",
+                "L2",
+                "L1"
+            ],
+            "CgG": [
+                "L5a",
+                "L2"
+            ],
+            "S1lm": [
+                "L2",
+                "L3",
+                "L4",
+                "L5"
+            ],
+            "S1ul": [
+                "L3",
+                "L4",
+                "L2"
+            ],
+            "M1ul": [
+                "L5",
+                "L3"
+            ],
+            "A1C": [
+                "L3",
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 067": {
+        "alternative_name": "Exc L3-4 RORB SEMA6D",
+        "region": {
+            "MTG": [
+                "L5",
+                "L3",
+                "L4",
+                "L2",
+                "L6"
+            ],
+            "CgG": [
+                "L2",
+                "L5a"
+            ],
+            "V1C": [
+                "L4ab"
+            ],
+            "M1lm": [
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L4"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L4"
+            ],
+            "M1ul": [
+                "L3",
+                "L5"
+            ],
+            "A1C": [
+                "L4",
+                "L3",
+                "L2",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 068": {
+        "alternative_name": "Exc L3-4 RORB PRSS12",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L4",
+                "L3",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L2",
+                "L3",
+                "L6b",
+                "L1",
+                "L4ab",
+                "L4c"
+            ],
+            "CgG": [
+                "L2",
+                "L5a"
+            ],
+            "M1lm": [
+                "L2",
+                "L3"
+            ],
+            "S1ul": [
+                "L3",
+                "L4",
+                "L2"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L3",
+                "L5",
+                "L2"
+            ],
+            "A1C": [
+                "L3",
+                "L4",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 069": {
+        "alternative_name": "Exc L3-5 RORB HSPB3",
+        "region": {
+            "MTG": [
+                "L3",
+                "L4"
+            ],
+            "CgG": [
+                "L2",
+                "L5a",
+                "L5b",
+                "L6"
+            ],
+            "M1lm": [
+                "L3"
+            ],
+            "S1ul": [
+                "L3"
+            ],
+            "M1ul": [
+                "L3",
+                "L2"
+            ],
+            "A1C": [
+                "L4",
+                "L3"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 070": {
+        "alternative_name": "Exc L3-5 THEMIS ELOF1",
+        "region": {
+            "MTG": [
+                "L3"
+            ],
+            "CgG": [
+                "L5a"
+            ],
+            "M1lm": [
+                "L5",
+                "L3",
+                "L2"
+            ],
+            "M1ul": [
+                "L5",
+                "L3",
+                "L6"
+            ],
+            "A1C": [
+                "L4",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 071": {
+        "alternative_name": "Exc L3 LINC00507 CTXN3",
+        "region": {
+            "M1lm": [
+                "L2",
+                "L3",
+                "L1"
+            ],
+            "S1ul": [
+                "L3"
+            ],
+            "M1ul": [
+                "L3",
+                "L1",
+                "L2",
+                "L5",
+                "L6"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 072": {
+        "alternative_name": "Exc L3 THEMIS PLA2G7",
+        "region": {
+            "M1lm": [
+                "L3",
+                "L5",
+                "L2"
+            ],
+            "M1ul": [
+                "L5",
+                "L3"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 073": {
+        "alternative_name": "Exc L5-6 THEMIS OR1J1",
+        "region": {
+            "MTG": [
+                "L4",
+                "L5",
+                "L6"
+            ],
+            "V1C": [
+                "L6a",
+                "L5",
+                "L4c",
+                "L6b",
+                "L3"
+            ],
+            "M1lm": [
+                "L3",
+                "L5"
+            ],
+            "S1ul": [
+                "L6a",
+                "L5",
+                "L6b",
+                "L4"
+            ],
+            "M1ul": [
+                "L5"
+            ],
+            "S1lm": [
+                "L6a",
+                "L5",
+                "L6b"
+            ],
+            "A1C": [
+                "L5",
+                "L6a"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 074": {
+        "alternative_name": "Exc L6 THEMIS EGR3",
+        "region": {
+            "V1C": [
+                "L6a",
+                "L6b",
+                "L5",
+                "L4c"
+            ],
+            "CgG": [
+                "L6"
+            ],
+            "M1lm": [
+                "L6",
+                "L5",
+                "L3"
+            ],
+            "S1ul": [
+                "L5",
+                "L6a",
+                "L6b",
+                "L3",
+                "L4"
+            ],
+            "M1ul": [
+                "L5",
+                "L6"
+            ],
+            "S1lm": [
+                "L6a",
+                "L5",
+                "L6b"
+            ],
+            "A1C": [
+                "L6b",
+                "WM",
+                "L6a",
+                "L4",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 075": {
+        "alternative_name": "Exc L6 THEMIS LINC00343",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4",
+                "L2"
+            ],
+            "V1C": [
+                "L6b",
+                "L6a"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L5a",
+                "L2",
+                "L1"
+            ],
+            "M1lm": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1ul": [
+                "L6b",
+                "L5",
+                "L6a"
+            ],
+            "M1ul": [
+                "L6",
+                "L5",
+                "L3"
+            ],
+            "S1lm": [
+                "L6b",
+                "L6a",
+                "L5"
+            ],
+            "A1C": [
+                "L6b",
+                "L6a",
+                "WM",
+                "L5",
+                "L2",
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 076": {
+        "alternative_name": "Exc L5-6 THEMIS TMEM233",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4",
+                "L3"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L5a",
+                "L2"
+            ],
+            "M1lm": [
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L6b",
+                "L6a"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "S1lm": [
+                "L6b"
+            ],
+            "A1C": [
+                "L6b",
+                "WM",
+                "L6a",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 077": {
+        "alternative_name": "Exc L3-5 RORB CMAHP",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L3"
+            ],
+            "CgG": [
+                "L5a",
+                "L5b",
+                "L2"
+            ],
+            "V1C": [
+                "L4c"
+            ],
+            "M1lm": [
+                "L3"
+            ],
+            "S1ul": [
+                "L4",
+                "L5",
+                "L3",
+                "L6b"
+            ],
+            "S1lm": [
+                "L3",
+                "L5",
+                "L4"
+            ],
+            "M1ul": [
+                "L6",
+                "L5",
+                "L3"
+            ],
+            "A1C": [
+                "L4",
+                "L5",
+                "L3"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 078": {
+        "alternative_name": "Exc L3-5 RORB CD24",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4"
+            ],
+            "CgG": [
+                "L5a",
+                "L6",
+                "L5b",
+                "L2",
+                "L1"
+            ],
+            "M1lm": [
+                "L3"
+            ],
+            "M1ul": [
+                "L3"
+            ],
+            "A1C": [
+                "L4",
+                "L3",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 079": {
+        "alternative_name": "Exc L4-5 RORB LINC01474",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L3",
+                "L2",
+                "L6",
+                "L1"
+            ],
+            "V1C": [
+                "L4c",
+                "L5",
+                "L4ab",
+                "L3"
+            ],
+            "CgG": [
+                "L5b",
+                "L5a",
+                "L2"
+            ],
+            "M1lm": [
+                "L3"
+            ],
+            "S1ul": [
+                "L4",
+                "L5",
+                "L3",
+                "L6b",
+                "L6a"
+            ],
+            "S1lm": [
+                "L3",
+                "L4",
+                "L5",
+                "L6a"
+            ],
+            "M1ul": [
+                "L5",
+                "L3",
+                "L6",
+                "L2"
+            ],
+            "A1C": [
+                "L5",
+                "L4",
+                "L6a",
+                "L2",
+                "WM",
+                "L3",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 080": {
+        "alternative_name": "Exc L4-6 RORB HPCA",
+        "region": {
+            "V1C": [
+                "L5",
+                "L4c",
+                "L6a",
+                "L4ab",
+                "L6b"
+            ],
+            "M1lm": [
+                "L3",
+                "L5"
+            ],
+            "S1ul": [
+                "L5",
+                "L6b",
+                "L3",
+                "L6a",
+                "L4"
+            ],
+            "M1ul": [
+                "L6",
+                "L5",
+                "L3"
+            ],
+            "S1lm": [
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L5",
+                "L4",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 081": {
+        "alternative_name": "Exc L5-6 RORB LINC00320",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4"
+            ],
+            "V1C": [
+                "L5",
+                "L6a"
+            ],
+            "CgG": [
+                "L5b",
+                "L6",
+                "L2"
+            ],
+            "M1lm": [
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L6a",
+                "L5",
+                "L6b"
+            ],
+            "S1lm": [
+                "L5",
+                "L6a",
+                "L4"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L5",
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 082": {
+        "alternative_name": "Exc L5 RORB LINC01202",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L6"
+            ],
+            "V1C": [
+                "L4c"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L5a",
+                "L1"
+            ],
+            "S1ul": [
+                "L5",
+                "L6a",
+                "L4"
+            ],
+            "M1lm": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "M1ul": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1lm": [
+                "L4",
+                "L5",
+                "L6a"
+            ],
+            "A1C": [
+                "L6a",
+                "L5",
+                "L4",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 083": {
+        "alternative_name": "Exc L4-5 RORB HNRNPA1P46",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L3",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L5",
+                "L4ab",
+                "L4c"
+            ],
+            "CgG": [
+                "L2",
+                "L5a",
+                "L5b",
+                "L6"
+            ],
+            "S1ul": [
+                "L5",
+                "L4",
+                "L3",
+                "L6a"
+            ],
+            "S1lm": [
+                "L3",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L6",
+                "L3",
+                "L5"
+            ],
+            "A1C": [
+                "L5",
+                "L4",
+                "L6a",
+                "L3"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 084": {
+        "alternative_name": "Exc L4-5 RORB RPL31P31",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L6",
+                "L3",
+                "L2"
+            ],
+            "V1C": [
+                "L5",
+                "L6a",
+                "L4c",
+                "L3",
+                "L4ab",
+                "L6b"
+            ],
+            "CgG": [
+                "L5a",
+                "L5b",
+                "L2",
+                "L6",
+                "L1"
+            ],
+            "M1lm": [
+                "L3",
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6a",
+                "L4",
+                "L5",
+                "L3",
+                "L6b"
+            ],
+            "S1lm": [
+                "L3",
+                "L5",
+                "L6a",
+                "L4"
+            ],
+            "M1ul": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "A1C": [
+                "L5",
+                "L4",
+                "L6a",
+                "L6b",
+                "L2"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 085": {
+        "alternative_name": "Exc L3-5 THEMIS UBE2F",
+        "region": {
+            "CgG": [
+                "L5a",
+                "L5b",
+                "L2",
+                "L6"
+            ],
+            "M1lm": [
+                "L3",
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L4"
+            ],
+            "M1ul": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1lm": [
+                "L6a",
+                "L5"
+            ],
+            "A1C": [
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 086": {
+        "alternative_name": "Exc L5 RORB SNHG7",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L3",
+                "L6",
+                "L2"
+            ],
+            "CgG": [
+                "L5a",
+                "L2",
+                "L5b",
+                "L6"
+            ],
+            "M1lm": [
+                "L3",
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L5",
+                "L3"
+            ],
+            "S1lm": [
+                "L5",
+                "L4",
+                "L6a"
+            ],
+            "M1ul": [
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L4",
+                "L5",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 087": {
+        "alternative_name": "Exc L4-5 RORB LCN15",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L3",
+                "L2",
+                "L6"
+            ],
+            "CgG": [
+                "L5a",
+                "L5b",
+                "L2",
+                "L6",
+                "L1"
+            ],
+            "V1C": [
+                "L4c"
+            ],
+            "M1lm": [
+                "L3",
+                "L5",
+                "L2"
+            ],
+            "S1ul": [
+                "L5",
+                "L4",
+                "L3",
+                "L6a"
+            ],
+            "S1lm": [
+                "L3",
+                "L6a",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "A1C": [
+                "L6a",
+                "L4",
+                "L5",
+                "WM",
+                "L2",
+                "L3",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 088": {
+        "alternative_name": "Exc L5-6 THEMIS IL7R",
+        "region": {
+            "MTG": [
+                "L5"
+            ],
+            "V1C": [
+                "L6a",
+                "L6b",
+                "L1",
+                "L5",
+                "L4c",
+                "L4ab",
+                "L3"
+            ],
+            "M1lm": [
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L6a",
+                "L5",
+                "L6b",
+                "L4"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6a",
+                "L5",
+                "L4"
+            ],
+            "A1C": [
+                "L5",
+                "L6a",
+                "WM",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 089": {
+        "alternative_name": "Exc L6 THEMIS C6orf48",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4"
+            ],
+            "M1lm": [
+                "L6"
+            ],
+            "A1C": [
+                "L5",
+                "WM",
+                "L6b",
+                "L4",
+                "L6a"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 090": {
+        "alternative_name": "Exc L5-6 THEMIS GPR21",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4"
+            ],
+            "V1C": [
+                "L4c",
+                "L5",
+                "L6a"
+            ],
+            "CgG": [
+                "L5b",
+                "L6",
+                "L5a",
+                "L1"
+            ],
+            "M1lm": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1ul": [
+                "L5",
+                "L6a",
+                "L6b"
+            ],
+            "M1ul": [
+                "L5",
+                "L6"
+            ],
+            "S1lm": [
+                "L6b",
+                "L6a",
+                "L5",
+                "L1"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b",
+                "L5",
+                "WM"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 091": {
+        "alternative_name": "Exc L5-6 THEMIS THTPA",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L6",
+                "L3"
+            ],
+            "M1ul": [
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L5",
+                "WM",
+                "L4",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 092": {
+        "alternative_name": "Exc L6 FEZF2 VWA2",
+        "region": {
+            "V1C": [
+                "L6b",
+                "L6a",
+                "L5",
+                "L4c"
+            ],
+            "CgG": [
+                "L6"
+            ],
+            "M1lm": [
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L6a",
+                "L6b",
+                "L5",
+                "L4"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6a",
+                "L6b",
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 093": {
+        "alternative_name": "Exc L5-6 FEZF2 ANKRD20A1",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6"
+            ],
+            "V1C": [
+                "L6a",
+                "L5",
+                "L6b"
+            ],
+            "CgG": [
+                "L5b",
+                "L6",
+                "L5a"
+            ],
+            "M1lm": [
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6b",
+                "L6a",
+                "L5"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6b",
+                "L5",
+                "L6a",
+                "L4"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 094": {
+        "alternative_name": "Exc L6 FEZF2 FAM95C",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L2"
+            ],
+            "CgG": [
+                "L6",
+                "L5a",
+                "L5b"
+            ],
+            "V1C": [
+                "L6b",
+                "L6a"
+            ],
+            "M1lm": [
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6b",
+                "L6a",
+                "L5"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6b",
+                "L6a",
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b",
+                "WM",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 095": {
+        "alternative_name": "Exc L6 FEZF2 CPZ",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6"
+            ],
+            "V1C": [
+                "L6b",
+                "L6a",
+                "L5"
+            ],
+            "CgG": [
+                "L5a",
+                "L6",
+                "L5b"
+            ],
+            "M1lm": [
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6a",
+                "L6b",
+                "L5"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6b",
+                "L6a"
+            ],
+            "A1C": [
+                "WM",
+                "L6b",
+                "L5",
+                "L6a"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 096": {
+        "alternative_name": "Exc L6 FEZF2 ETV4",
+        "region": {
+            "MTG": [
+                "L6"
+            ],
+            "V1C": [
+                "L6a",
+                "L6b",
+                "L5"
+            ],
+            "CgG": [
+                "L5b",
+                "L6"
+            ],
+            "M1lm": [
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6a",
+                "L5",
+                "L6b"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6a",
+                "L5",
+                "L6b"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 097": {
+        "alternative_name": "Exc L6 FEZF2 TBC1D26",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4"
+            ],
+            "CgG": [
+                "L6",
+                "L5b"
+            ],
+            "V1C": [
+                "L6a"
+            ],
+            "M1lm": [
+                "L6"
+            ],
+            "S1ul": [
+                "L6b"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "S1lm": [
+                "L6b"
+            ],
+            "A1C": [
+                "L6a",
+                "L6b",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 098": {
+        "alternative_name": "Exc L6 FEZF2 KRT17",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4",
+                "L2"
+            ],
+            "CgG": [
+                "L6",
+                "L5b"
+            ],
+            "V1C": [
+                "L6b",
+                "L6a",
+                "L5"
+            ],
+            "M1lm": [
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L6a",
+                "L6b"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6a",
+                "L6b"
+            ],
+            "A1C": [
+                "WM",
+                "L6a",
+                "L6b",
+                "L2",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 099": {
+        "alternative_name": "Exc L6 FEZF2 P4HA3",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6"
+            ],
+            "V1C": [
+                "L6a",
+                "L6b"
+            ],
+            "CgG": [
+                "L6",
+                "L5b"
+            ],
+            "S1ul": [
+                "L6b",
+                "L6a"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "M1lm": [
+                "L6"
+            ],
+            "A1C": [
+                "L6b",
+                "L6a",
+                "WM"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 100": {
+        "alternative_name": "Exc L6 FEZF2 SLITRK6",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6"
+            ],
+            "V1C": [
+                "L6a",
+                "L6b"
+            ],
+            "CgG": [
+                "L6"
+            ],
+            "M1lm": [
+                "L6"
+            ],
+            "S1ul": [
+                "L6a"
+            ],
+            "S1lm": [
+                "L6a",
+                "L6b"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "A1C": [
+                "L6b",
+                "WM"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 101": {
+        "alternative_name": "Exc L6 FEZF2 TBCC",
+        "region": {
+            "MTG": [
+                "L6"
+            ],
+            "V1C": [
+                "L6b",
+                "L5",
+                "L6a"
+            ],
+            "CgG": [
+                "L6",
+                "L5b"
+            ],
+            "M1lm": [
+                "L6"
+            ],
+            "S1ul": [
+                "L6a",
+                "L6b"
+            ],
+            "M1ul": [
+                "L6"
+            ],
+            "S1lm": [
+                "L6a",
+                "L6b"
+            ],
+            "A1C": [
+                "WM",
+                "L6a",
+                "L6b"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 102": {
+        "alternative_name": "Exc L3-5 FEZF2 ONECUT1",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L3"
+            ],
+            "V1C": [
+                "L6a",
+                "L5",
+                "L4c",
+                "L6b"
+            ],
+            "S1ul": [
+                "L5"
+            ],
+            "S1lm": [
+                "L3"
+            ],
+            "M1ul": [
+                "L3"
+            ],
+            "A1C": [
+                "L4",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 103": {
+        "alternative_name": "Exc L3-5 FEZF2 DCN",
+        "region": {
+            "CgG": [
+                "L5a",
+                "L5b"
+            ],
+            "M1lm": [
+                "L3",
+                "L5"
+            ],
+            "M1ul": [
+                "L5",
+                "L3"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 104": {
+        "alternative_name": "Exc L5 FEZF2 SCN7A",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4"
+            ],
+            "CgG": [
+                "L5b"
+            ],
+            "M1lm": [
+                "L5"
+            ],
+            "S1ul": [
+                "L5"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "A1C": [
+                "L4",
+                "L5"
+            ],
+            "S1lm": [
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 105": {
+        "alternative_name": "Exc L5 FEZF2 MORN2",
+        "region": {
+            "CgG": [
+                "L5b",
+                "L5a",
+                "L6",
+                "L2",
+                "L1"
+            ],
+            "M1lm": [
+                "L5"
+            ],
+            "M1ul": [
+                "L5"
+            ],
+            "A1C": [
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 106": {
+        "alternative_name": "Exc L5 FEZF2 DYRK2",
+        "region": {
+            "M1lm": [
+                "L3",
+                "L5"
+            ],
+            "S1ul": [
+                "L5",
+                "L4"
+            ],
+            "M1ul": [
+                "L5",
+                "L6"
+            ],
+            "S1lm": [
+                "L5",
+                "L4"
+            ],
+            "A1C": [
+                "L5",
+                "L6a"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 107": {
+        "alternative_name": "Exc L5-6 FEZF2 MYBPHL",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L6",
+                "L2",
+                "L1",
+                "L3"
+            ],
+            "V1C": [
+                "L4c",
+                "L5",
+                "L6a",
+                "L4ab",
+                "L6b"
+            ],
+            "CgG": [
+                "L5b",
+                "L6",
+                "L5a",
+                "L1"
+            ],
+            "M1lm": [
+                "L5",
+                "L6",
+                "L3"
+            ],
+            "S1ul": [
+                "L5",
+                "L6a",
+                "L6b",
+                "L4"
+            ],
+            "M1ul": [
+                "L6",
+                "L5",
+                "L3"
+            ],
+            "S1lm": [
+                "L5",
+                "L6a"
+            ],
+            "A1C": [
+                "L5",
+                "L6a",
+                "L6b",
+                "L4"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 108": {
+        "alternative_name": "Exc L5-6 FEZF2 CYP26B1",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L6"
+            ],
+            "CgG": [
+                "L5b",
+                "L6",
+                "L2",
+                "L1",
+                "L5a"
+            ],
+            "S1lm": [
+                "L4"
+            ],
+            "A1C": [
+                "L5",
+                "L6a"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 109": {
+        "alternative_name": "Exc L5-6 FEZF2 RSAD2",
+        "region": {
+            "V1C": [
+                "L6a",
+                "L4c",
+                "L6b",
+                "L5"
+            ],
+            "M1lm": [
+                "L5",
+                "L6"
+            ],
+            "S1ul": [
+                "L6a",
+                "L6b",
+                "L4",
+                "L5"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "S1lm": [
+                "L6a",
+                "L5"
+            ],
+            "A1C": [
+                "L6a",
+                "L5"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Neuron 110": {
+        "alternative_name": "Exc L5-6 FEZF2 CABP7",
+        "region": {
+            "MTG": [
+                "L6"
+            ],
+            "V1C": [
+                "L6a",
+                "L4c",
+                "L5"
+            ],
+            "CgG": [
+                "L6"
+            ],
+            "M1lm": [
+                "L6",
+                "L5"
+            ],
+            "S1ul": [
+                "L6a",
+                "L6b"
+            ],
+            "S1lm": [
+                "L6b"
+            ],
+            "M1ul": [
+                "L6",
+                "L5"
+            ],
+            "A1C": [
+                "L6a"
+            ]
+        },
+        "cell_type": "Glutamatergic"
+    },
+    "Non-neuron 001": {
+        "alternative_name": "Astro L1-6 FGFR3 ETNPPL",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L3",
+                "L4",
+                "L6",
+                "L2"
+            ],
+            "V1C": [
+                "L3",
+                "L1",
+                "L6b",
+                "L2",
+                "L4c",
+                "L6a",
+                "L5",
+                "L4ab"
+            ],
+            "CgG": [
+                "L6",
+                "L2",
+                "L5b",
+                "L1",
+                "L5a"
+            ],
+            "M1lm": [
+                "L6",
+                "L2",
+                "L1",
+                "L5",
+                "L3"
+            ],
+            "S1ul": [
+                "L1",
+                "L3",
+                "L6a",
+                "L6b",
+                "L4",
+                "L5",
+                "L2"
+            ],
+            "S1lm": [
+                "L2",
+                "L1",
+                "L3",
+                "L4",
+                "L5",
+                "L6a",
+                "L6b"
+            ],
+            "M1ul": [
+                "L1",
+                "L2",
+                "L3",
+                "L6",
+                "L5"
+            ],
+            "A1C": [
+                "L1",
+                "L2",
+                "L6b",
+                "L6a",
+                "L5",
+                "L3",
+                "L4",
+                "WM"
+            ]
+        },
+        "cell_type": "Astrocyte"
+    },
+    "Non-neuron 002": {
+        "alternative_name": "Astro L1 FGFR3 MT1G",
+        "region": {
+            "MTG": [
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L1",
+                "L2",
+                "L6b",
+                "L3"
+            ],
+            "CgG": [
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "M1lm": [
+                "L6",
+                "L1",
+                "L2"
+            ],
+            "S1ul": [
+                "L1",
+                "L2"
+            ],
+            "S1lm": [
+                "L1",
+                "L6b"
+            ],
+            "M1ul": [
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "A1C": [
+                "L1",
+                "L6b",
+                "L2",
+                "WM",
+                "L6a"
+            ]
+        },
+        "cell_type": "Astrocyte"
+    },
+    "Non-neuron 003": {
+        "alternative_name": "Astro L1 FGFR3 FOS",
+        "region": {
+            "MTG": [
+                "L5",
+                "L1",
+                "L6",
+                "L2"
+            ],
+            "V1C": [
+                "L1",
+                "L2"
+            ],
+            "CgG": [
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "M1lm": [
+                "L1",
+                "L6"
+            ],
+            "S1ul": [
+                "L1",
+                "L6b"
+            ],
+            "M1ul": [
+                "L1",
+                "L2"
+            ],
+            "S1lm": [
+                "L1",
+                "L6b"
+            ],
+            "A1C": [
+                "WM",
+                "L1",
+                "L5"
+            ]
+        },
+        "cell_type": "Astrocyte"
+    },
+    "Non-neuron 004": {
+        "alternative_name": "OPC L1-6 MYT1",
+        "region": {
+            "MTG": [
+                "L5",
+                "L1",
+                "L4",
+                "L6",
+                "L3",
+                "L2"
+            ],
+            "V1C": [
+                "L4ab",
+                "L2",
+                "L5",
+                "L4c",
+                "L6a",
+                "L1",
+                "L3",
+                "L6b"
+            ],
+            "CgG": [
+                "L1",
+                "L6",
+                "L5a",
+                "L2",
+                "L5b"
+            ],
+            "M1lm": [
+                "L6",
+                "L5",
+                "L3",
+                "L2",
+                "L1"
+            ],
+            "S1ul": [
+                "L2",
+                "L5",
+                "L3",
+                "L1",
+                "L6b",
+                "L4",
+                "L6a"
+            ],
+            "S1lm": [
+                "L3",
+                "L1",
+                "L2",
+                "L4",
+                "L5",
+                "L6a",
+                "L6b"
+            ],
+            "M1ul": [
+                "L6",
+                "L2",
+                "L5",
+                "L3",
+                "L1"
+            ],
+            "A1C": [
+                "L2",
+                "L1",
+                "L3",
+                "L6b",
+                "L4",
+                "WM",
+                "L6a",
+                "L5"
+            ]
+        },
+        "cell_type": "OPC"
+    },
+    "Non-neuron 005": {
+        "alternative_name": "Oligo L4-6 MOBP COL18A1",
+        "region": {
+            "MTG": [
+                "L5",
+                "L6",
+                "L4",
+                "L3",
+                "L1",
+                "L2"
+            ],
+            "V1C": [
+                "L4ab",
+                "L6b",
+                "L4c",
+                "L6a",
+                "L5",
+                "L3",
+                "L2"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L2",
+                "L5a"
+            ],
+            "M1lm": [
+                "L5",
+                "L3",
+                "L6",
+                "L2"
+            ],
+            "S1ul": [
+                "L4",
+                "L6a",
+                "L6b",
+                "L5",
+                "L3"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L6b",
+                "L6a",
+                "L1",
+                "L5",
+                "L4"
+            ],
+            "M1ul": [
+                "L3",
+                "L5",
+                "L6",
+                "L1"
+            ],
+            "A1C": [
+                "L6a",
+                "L5",
+                "L2",
+                "L3",
+                "L6b",
+                "L4"
+            ]
+        },
+        "cell_type": "Oligodendrocyte"
+    },
+    "Non-neuron 006": {
+        "alternative_name": "Oligo L4-6 OPALIN",
+        "region": {
+            "MTG": [
+                "L1",
+                "L5",
+                "L4",
+                "L6",
+                "L3",
+                "L2"
+            ],
+            "V1C": [
+                "L5",
+                "L6a",
+                "L6b",
+                "L4c",
+                "L4ab",
+                "L1",
+                "L3",
+                "L2"
+            ],
+            "CgG": [
+                "L6",
+                "L5b",
+                "L5a",
+                "L1",
+                "L2"
+            ],
+            "M1lm": [
+                "L3",
+                "L5",
+                "L2",
+                "L6"
+            ],
+            "S1ul": [
+                "L1",
+                "L3",
+                "L4",
+                "L5",
+                "L2",
+                "L6b",
+                "L6a"
+            ],
+            "S1lm": [
+                "L3",
+                "L2",
+                "L4",
+                "L6b",
+                "L5",
+                "L6a"
+            ],
+            "M1ul": [
+                "L2",
+                "L3",
+                "L6",
+                "L1",
+                "L5"
+            ],
+            "A1C": [
+                "L2",
+                "L5",
+                "L3",
+                "L4",
+                "L6b",
+                "L6a",
+                "WM",
+                "L1"
+            ]
+        },
+        "cell_type": "Oligodendrocyte"
+    },
+    "Non-neuron 007": {
+        "alternative_name": "Endo L2-5 CLDN5",
+        "region": {
+            "MTG": [
+                "L4",
+                "L5",
+                "L3",
+                "L2",
+                "L6"
+            ],
+            "V1C": [
+                "L2",
+                "L4ab",
+                "L4c",
+                "L3"
+            ],
+            "CgG": [
+                "L5a",
+                "L2",
+                "L1",
+                "L5b"
+            ],
+            "M1lm": [
+                "L2",
+                "L3",
+                "L5"
+            ],
+            "S1ul": [
+                "L5",
+                "L2",
+                "L3",
+                "L4"
+            ],
+            "S1lm": [
+                "L3",
+                "L4"
+            ],
+            "M1ul": [
+                "L2",
+                "L5"
+            ],
+            "A1C": [
+                "L2",
+                "L5",
+                "L3",
+                "L4"
+            ]
+        },
+        "cell_type": "Endothelial"
+    },
+    "Non-neuron 008": {
+        "alternative_name": "VLMC L1-3 CYP1B1",
+        "region": {
+            "MTG": [
+                "L2",
+                "L3"
+            ],
+            "V1C": [
+                "L3"
+            ],
+            "CgG": [
+                "L1",
+                "L5a"
+            ],
+            "S1ul": [
+                "L3"
+            ],
+            "M1lm": [
+                "L3"
+            ],
+            "A1C": [
+                "L3"
+            ]
+        },
+        "cell_type": "VLMC"
+    },
+    "Non-neuron 009": {
+        "alternative_name": "Peri L1-6 MUSTN1",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L2",
+                "L3",
+                "L1",
+                "L6"
+            ],
+            "V1C": [
+                "L6a",
+                "L4ab",
+                "L4c"
+            ],
+            "CgG": [
+                "L2",
+                "L6"
+            ],
+            "M1lm": [
+                "L5",
+                "L1"
+            ],
+            "S1ul": [
+                "L4",
+                "L3",
+                "L6b"
+            ],
+            "S1lm": [
+                "L3"
+            ],
+            "M1ul": [
+                "L2"
+            ],
+            "A1C": [
+                "L4",
+                "L5"
+            ]
+        },
+        "cell_type": "Pericyte"
+    },
+    "Non-neuron 010": {
+        "alternative_name": "Micro L1-6 C1QC",
+        "region": {
+            "MTG": [
+                "L5",
+                "L4",
+                "L1",
+                "L6",
+                "L3",
+                "L2"
+            ],
+            "V1C": [
+                "L4ab",
+                "L4c",
+                "L5",
+                "L2",
+                "L6a",
+                "L3",
+                "L6b"
+            ],
+            "CgG": [
+                "L2",
+                "L6",
+                "L1",
+                "L5a",
+                "L5b"
+            ],
+            "M1lm": [
+                "L1",
+                "L2",
+                "L5",
+                "L3",
+                "L6"
+            ],
+            "S1ul": [
+                "L2",
+                "L3",
+                "L1",
+                "L4",
+                "L5",
+                "L6a",
+                "L6b"
+            ],
+            "S1lm": [
+                "L2",
+                "L1",
+                "L3",
+                "L6a",
+                "L4",
+                "L5",
+                "L6b"
+            ],
+            "M1ul": [
+                "L5",
+                "L3",
+                "L1",
+                "L2",
+                "L6"
+            ],
+            "A1C": [
+                "L3",
+                "L6a",
+                "L4",
+                "L5",
+                "L2",
+                "WM",
+                "L1",
+                "L6b"
+            ]
+        },
+        "cell_type": "Microglia"
+    }
+}
