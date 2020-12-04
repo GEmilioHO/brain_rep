@@ -1,5 +1,5 @@
 # BrainRep
-This scripts codes for a predictive algorithm that uses gene expression data of human brain cells and regulatory network information to predict transcription factors for inducing cell reprogramming between specific brain cells and neuronal subtypes.
+This script codes for a predictive algorithm that uses gene expression data of human brain cells and regulatory network information to predict transcription factors for inducing cell reprogramming between specific brain cells and neuronal subtypes.
 
 ## Files
 brain_cells_data.json &nbsp; ---> &nbsp; file containing the identifiers of the brain cells and neuronal subtypes that can be used as source cell or desired cell types, and the brain region where they are present <br>
